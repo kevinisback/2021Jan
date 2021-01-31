@@ -1,8 +1,7 @@
 ﻿Back to desktop: Fn+F11
-Right click: ctrl+click
+Rjlassjdlajfladl
+1030 AM FEB ght click: ctrl+click
 Search : command + space 
-GitHub git doc: right click 1.in cmd 2.find location 
-830 Feb 1014 Feb  
 Docker image:
 1.where it is stored
 2.where it is run
@@ -10,7 +9,7 @@ Docker image:
 4.networking related setting
 
 Yaml # comment
-
+refactor
 wohaha      heiheihei hei, we made another change at midnight
 
 
