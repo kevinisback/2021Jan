@@ -2,7 +2,7 @@
 Right click: ctrl+click
 Search : command + space 
 GitHub git doc: right click 1.in cmd 2.find location 
-
+830 Feb 1014 Feb  
 Docker image:
 1.where it is stored
 2.where it is run
