@@ -1,6 +1,4 @@
-﻿Back to desktop: Fn+F11
-Rjlassjdlajfladl
-1030 AM FEB ght click: ctrl+click
+﻿>>>>>>> f40c772168d6fd07be685e04ae661f57d62877df
 Search : command + space 
 Docker image:
 1.where it is stored
